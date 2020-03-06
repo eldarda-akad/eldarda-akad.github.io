@@ -1,0 +1,1 @@
+"use strict";var burger=document.querySelector(".navbar__burger");burger.addEventListener("click",function(){burger.style.transform = "rotate(360deg)"});
